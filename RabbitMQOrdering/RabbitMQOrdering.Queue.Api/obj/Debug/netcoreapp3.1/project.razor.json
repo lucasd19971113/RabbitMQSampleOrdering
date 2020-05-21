@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/lucasdiasmottafigueira/Downloads/RDI/RabbitMQOrdering.Queue.Api/RabbitMQOrdering.Queue.Api.csproj",
+  "FilePath": "/Users/lucasdiasmottafigueira/Downloads/RabbitMQSampleOrdering/RabbitMQOrdering/RabbitMQOrdering.Queue.Api/RDI.Queue.Api.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20518,7 +20518,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "RabbitMQOrdering.Queue.Api",
+  "RootNamespace": "RDI.Queue.Api",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
